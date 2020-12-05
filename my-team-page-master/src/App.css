@@ -71,6 +71,9 @@
             flex-direction: column;
     margin-top: 80px;
   }
+  header .subhead {
+    max-width: 500px;
+  }
   h1 {
     margin-bottom: 38px;
   }
@@ -86,6 +89,9 @@
   header p {
     font-size: 14px;
     line-height: 21px;
+  }
+  header .subhead {
+    max-width: 350px;
   }
   .card {
     max-width: 155px;

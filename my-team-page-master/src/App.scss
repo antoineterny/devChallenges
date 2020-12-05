@@ -57,6 +57,9 @@
 	header {
 		flex-direction: column;
 		margin-top: 80px;
+		.subhead {
+			max-width: 500px;
+		}
 	}
 	h1 {
 		margin-bottom: 38px;
@@ -72,6 +75,9 @@
 		p {
 			font-size: 14px;
 			line-height: 21px;
+		}
+		.subhead {
+			max-width: 350px;
 		}
 	}
 	.card {
